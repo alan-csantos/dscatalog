@@ -1,4 +1,4 @@
-package com.dscatalog.backend;
+package com.javastudy.dscatalog.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
